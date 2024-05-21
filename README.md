@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Eric Li
-<h3 align="center">Enthusiastic and self-motivated Software Engineer.</h3>
+<h5 align="left">Enthusiastic and self-motivated Software Engineer.</h5>
 <p align="left">
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=lianyun0502&show_icons=true&theme=prussian" alt="lianyun0502" />
