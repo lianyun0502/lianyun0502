@@ -1,9 +1,9 @@
 # Hi 👋, I'm Eric Li
 
-<h4 align="left">Quant Developer | High-Frequency Trading & Quantitative Systems</h4>
+<h4 align="left">Low-Latency Systems Engineer | Quantitative Trading Infrastructure</h4>
 
 <p align="left">
-I am a software engineer specializing in designing and developing low-latency, high-performance systems for quantitative trading and high-frequency trading (HFT). Passionate about market microstructure, algorithmic trading, and optimizing system architectures to achieve microsecond-level execution.
+I design and build low-latency, high-throughput systems for quantitative trading environments, with a focus on execution infrastructure, market data processing, and performance-critical backend services. My work centers on writing reliable software in C++, Rust, and Python, optimizing for deterministic performance, and delivering production-grade systems with a strong engineering standard.
 </p>
 
 <p align="left">
@@ -22,9 +22,9 @@ I am a software engineer specializing in designing and developing low-latency, h
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Core Stack
 
-### **Core Languages (Low-Latency & Quant Analysis)**
+### **Systems Programming & Performance-Critical Development**
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -32,7 +32,7 @@ I am a software engineer specializing in designing and developing low-latency, h
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### **Data Science, ML & Quant Libraries**
+### **Quant Research & Data Tooling**
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -40,14 +40,14 @@ I am a software engineer specializing in designing and developing low-latency, h
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### **Backend & Frameworks**
+### **Application & Service Development**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
-### **Databases & Infrastructure**
+### **Data & Platform Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -57,7 +57,7 @@ I am a software engineer specializing in designing and developing low-latency, h
 
 ---
 
-## 📈 What I'm Focused On
-- **High-Frequency Trading (HFT):** Order matching engines, market data feed handlers, and low-latency execution strategies.
-- **Quantitative Research:** Alpha generation, statistical arbitrage, and backtesting frameworks.
-- **System Optimization:** Memory management, lock-free programming, and kernel-bypass technologies.
+## 📈 Professional Focus
+- **Low-Latency Trading Systems:** Execution infrastructure, order routing workflows, and microsecond-sensitive components.
+- **Market Data Engineering:** Real-time feed handling, normalization pipelines, and resilient event-driven processing.
+- **Performance Engineering:** Concurrency design, memory efficiency, profiling, and Linux-based system optimization.
